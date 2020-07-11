@@ -1,0 +1,31 @@
+1. Create two python files. say 'task_2_01_A.py' and 'task_2_01_B.py'. Create a class in the 'task_2_01_A.py' having some attributes and functions and constructor defined in the class. Create a method outside that class in the file 'task_2_01_A.py'. Use that class and its attrivbutes and mehtods and the method that is defined outside the class in the file 'task_2_01_B.py'.
+
+2. Create a file 'task_2_02_A.py' and write the statement 'Print "I am in A"'. Now using another file 'task_2_02_B.py' Print this message on the screen [Do not define any function].
+
+3. Run a command of system that you run on terminal using python. i.e. ls, cat etc.
+
+4. How can you get the type of a variable? Write possible two ways.
+
+5.How can you get the square root of a number?
+
+6. Open a file and write 'Hello, How can you be so fast?' in it. Now read this file and store the words in a list. ['Hello,','How','can','you','be','so','fast?'].
+
+7. Generate 10 random numbers using built in functions.
+
+8.Print Today's date. in the format 'dd.mm.yyyy'.
+
+9.Calculate my age as on today in years,months and days. If my birthday is 1-1-2000 today I will be 10 years 10 months and 7 days old. if any of the parameter is 0 it should not be displayed.
+
+10.Compress a given file.
+
+11.Use the operator module and have the all the operators used in your code ['<','>','!=','<=','>=','<>','==','in', 'not in','contains','doesn't contain'] etc.
+
+12.Print the current date and time in the format that has date as '07 July 2011 03:27 P.M. Monday'.
+
+13.Print only the current time.
+
+14.From list of tuples having pair create a dictionary without using if or ay loops and vice versa.
+
+15.Get 50 numbers that are divisible by 4 in one line.
+
+16.Search a substring "cat" in a string "cat is a barking animal." and replace it with a substring "dog".
